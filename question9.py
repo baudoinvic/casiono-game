@@ -12,8 +12,8 @@ class Human:
             print("Invalid bet amount. Please enter a number between 1 and 99.")
 
 # Debugging the play() function
-# def play():
-#     human_player = Human(500)
-#     human_player.bet()
+def play():
+    human_player = Human(500)
+    human_player.bet()
 
 play()
